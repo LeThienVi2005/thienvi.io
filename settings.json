@@ -1,0 +1,6 @@
+{
+    "workbench.editorAssociations": {
+        "*.dll": "default"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}
